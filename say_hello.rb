@@ -1,5 +1,5 @@
 def say_hello
-  puts "Hello Kent Beck!"
+   "Hello Kent Beck!"
 end
 
 
